@@ -2,7 +2,8 @@ import pygame
 
 pygame.init()
 
-ANCHO, ALTO = 1200, 800
+ANCHO = 1200 
+ALTO = ANCHO // 2
 VENTANA = pygame.display.set_mode((ANCHO, ALTO))
 pygame.display.set_caption("Representador Diédrico 2 Vistas")
 
