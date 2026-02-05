@@ -1,6 +1,6 @@
 # Herramientas de Modelado
 
-Este repositorio contiene dos herramientas gráficas escritas en Python:
+Este repositorio contiene dos herramientas gráficas escritas en Python para la asignatura de "Simulación y Modelado"
 
 ---
 
